@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umaraziz322
-- 👀 I’m interested in Frontend, web-development and codding.
-- 🌱 I’m currently learning Frontend development.
+- 👀 I’m interested in Frontend & Backend Developement.
+- 🌱 I’m currently learning Python Data Science.
 - 💞️ I’m looking to collaborate on projects and team collaboration.
 - 📫 You can send message to my github account.
 
